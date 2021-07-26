@@ -694,7 +694,7 @@ welcome
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(../images/bgcampus1.jpg);
+  background-image: url(assets/images/bgcampus1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
