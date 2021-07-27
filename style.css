@@ -192,6 +192,23 @@ a.main-button-slider {
   transition: all 0.3s ease 0s;
 }
 
+.join-button-slider {
+  font-size: 13px;
+  border-radius: 10px;
+  padding: 12px 20px;   
+  background-color: #05125c;
+  text-transform: uppercase;
+  color: #fff;
+  letter-spacing: 0.25px;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+  position:relative;
+  left:100%;
+  margin: 0 auto;
+}
+
 a.main-button-slider:hover {
   background-color: #09d1f5;
 }
