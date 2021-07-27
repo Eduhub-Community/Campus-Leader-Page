@@ -1,15 +1,4 @@
-/*
 
-ART FACTORY
-
-https://templatemo.com/tm-537-art-factory
-
-@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900");
-/* 
----------------------------------------------
-reset
---------------------------------------------- 
-*/
 html,
 body,
 div,
@@ -972,12 +961,10 @@ about
   }
 }
 
-
-
 .service-item p {
   font-weight: 400;
   font-size:18px;
-  color: #fafafa;
+  color: white;
   letter-spacing: 0.5px;
   line-height: 25px;
   position: relative;
