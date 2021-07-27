@@ -960,7 +960,7 @@ about
 }
 .service-item {
   cursor: pointer;
-  display: flex; 
+  display: table-cell; 
   background: #1e60c4;
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.1);
   padding: 40px 30px;
