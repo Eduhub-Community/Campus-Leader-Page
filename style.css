@@ -1012,6 +1012,7 @@ about
 
 .owl-carousel {
   position: relative;
+  display:table-cell;
 }
 
 .owl-carousel .owl-nav button.owl-next span {
