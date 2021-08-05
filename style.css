@@ -103,10 +103,7 @@ hgroup {
 
 * {
   box-sizing: border-box;
-  background: url(../assets/images/img3.jpg);
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
+  
 }
 
 html,
@@ -118,6 +115,10 @@ body {
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url(../assets/images/img3.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 a {
@@ -153,6 +154,10 @@ html,
 body {
   background: #fff;
   font-family: "Roboto", sans-serif;
+  background: url(../assets/images/img3.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 ::selection {
