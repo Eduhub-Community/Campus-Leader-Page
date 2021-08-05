@@ -114,7 +114,7 @@ body {
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
 }
-.body{
+body{
   background-image: url(./img3.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
