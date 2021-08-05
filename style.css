@@ -81,11 +81,6 @@ hgroup {
   display: block;
 }
 
-* {
-  box-sizing: border-box;
-  
-}
-
 html,
 body {
   font-family: "Roboto", sans-serif;
@@ -142,8 +137,7 @@ global styles
 }
 
 @media (max-width: 991px) {
-  html,
-  body {
+  html {
     overflow-x: hidden;
   }
   
