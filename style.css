@@ -81,19 +81,18 @@ hgroup {
   display: block;
 }
 
-html,
-body {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
- background-image: url("./img3.jpg");
-background-position: center;
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: cover;
-	z-index: 100;
-}
 
+body{
+	background-image: url("./img3.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	z-index: 100;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+}
 
 a {
   text-decoration: none !important;
