@@ -151,11 +151,7 @@ p {
 global styles
 --------------------------------------------- 
 */
-html,
-body {
-  font-family: "Roboto", sans-serif;
 
-}
 
 ::selection {
   background: #ff589e;
