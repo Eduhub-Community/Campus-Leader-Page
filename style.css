@@ -113,10 +113,9 @@ body {
   font-size: 16px;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 .body{
-  background-image: url(../assets/images/img3.jpg);
+  background-image: url(./img3.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;	
