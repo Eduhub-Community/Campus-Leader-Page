@@ -114,10 +114,12 @@ body {
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(./assets/images/img3.jpg);
+}
+body{
+  background-image: url(assets/images/img3.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;	
 }
 
 a {
@@ -152,10 +154,7 @@ global styles
 html,
 body {
   font-family: "Roboto", sans-serif;
-  background-image: url(./assets/images/img3.jpg);
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
+
 }
 
 ::selection {
