@@ -110,7 +110,6 @@ html,
 body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  background-color: #fff;
   font-size: 16px;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -152,7 +151,6 @@ global styles
 */
 html,
 body {
-  background: #fff;
   font-family: "Roboto", sans-serif;
   background: url(../assets/images/img3.jpg);
   background-attachment: fixed;
