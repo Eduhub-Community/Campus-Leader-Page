@@ -115,8 +115,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-body{
-  background-image: url(assets/images/img3.jpg);
+.body{
+  background-image: url(../assets/images/img3.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;	
